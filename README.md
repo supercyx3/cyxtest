@@ -1,5 +1,5 @@
 # cyxtest
-##用c语言写多种排序算法  
+## 用c语言写多种排序算法  
 
     #include <stdio.h>
 
