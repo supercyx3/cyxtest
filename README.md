@@ -1,9 +1,8 @@
 # cyxtest
 ## 用c语言写多种排序算法  
-<<<<<<< HEAD
+
 - 注意空格
-=======
->>>>>>> test
+
 
     #include <stdio.h>
 
